@@ -1,7 +1,7 @@
 package client
 
 import (
-	"ch15/series"
+	"github.com/shibd/go-learn/src/ch15/series"
 	"testing"
 )
 
